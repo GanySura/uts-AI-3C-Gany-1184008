@@ -1,1 +1,2 @@
-# uts-AI-3C-Gany-1184008
+# Sentiment analyst dengan mepaste URL news / berita
+
